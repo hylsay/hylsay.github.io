@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on 胡永云的Hugo博客</title>
+    <link>https://hugo.aoaoao.info/categories/wordpress/</link>
+    <description>Recent content in Wordpress on 胡永云的Hugo博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Fri, 25 Dec 2020 02:32:29 +0800</lastBuildDate><atom:link href="https://hugo.aoaoao.info/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WordPress文章阅读插件Hylsay Text Reading</title>
+      <link>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</link>
+      <pubDate>Fri, 25 Dec 2020 02:32:29 +0800</pubDate>
+      
+      <guid>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</guid>
+      <description>插件介绍 WordPress文章阅读插件Hylsay-Text-Reading是由hylsay独立开发，它的特点就是能把文字合成语音播放出来，</description>
+    </item>
+    
+  </channel>
+</rss>
