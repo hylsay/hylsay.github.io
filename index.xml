@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>胡永云的Hugo博客</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 胡永云的Hugo博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Thu, 24 Dec 2020 18:51:17 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description>hi,大家好，欢迎来到我的Hugo博客！ Wordpress博客 Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>截图大师-超级写轮眼</title>
+      <link>http://localhost:1313/post/screenshot-lan/</link>
+      <pubDate>Thu, 24 Dec 2020 18:51:17 +0800</pubDate>
+      
+      <guid>http://localhost:1313/post/screenshot-lan/</guid>
+      <description>欢迎使用截图大师 截图大师-超级写轮眼是一款内网截图软件。它的诞生起源于今天上午的一次闲聊，因为我们平时办公使用的都是内网，电脑是不允许使用Q</description>
+    </item>
+    
+  </channel>
+</rss>
