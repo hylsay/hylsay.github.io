@@ -10,7 +10,63 @@
   
   <url>
     <loc>https://hugo.aoaoao.info/categories/</loc>
-    <lastmod>2020-12-25T02:32:29+08:00</lastmod>
+    <lastmod>2020-12-25T02:44:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/tags/hylsay-email-smtp/</loc>
+    <lastmod>2020-12-25T02:44:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/post/</loc>
+    <lastmod>2020-12-25T02:44:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/tags/</loc>
+    <lastmod>2020-12-25T02:44:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/tags/wordpress/</loc>
+    <lastmod>2020-12-25T02:44:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/categories/wordpress/</loc>
+    <lastmod>2020-12-25T02:44:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/post/wordpress-hylsay-email-smtp/</loc>
+    <lastmod>2020-12-25T02:44:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/tags/%E5%AE%A2%E6%9C%8D%E9%82%AE%E4%BB%B6/</loc>
+    <lastmod>2020-12-25T02:44:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/</loc>
+    <lastmod>2020-12-25T02:44:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -23,42 +79,7 @@
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/post/</loc>
-    <lastmod>2020-12-25T02:32:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hugo.aoaoao.info/tags/</loc>
-    <lastmod>2020-12-25T02:32:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hugo.aoaoao.info/tags/wordpress/</loc>
-    <lastmod>2020-12-25T02:32:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hugo.aoaoao.info/categories/wordpress/</loc>
-    <lastmod>2020-12-25T02:32:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</loc>
-    <lastmod>2020-12-25T02:32:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hugo.aoaoao.info/</loc>
     <lastmod>2020-12-25T02:32:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
