@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 胡永云的Hugo博客</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://hugo.aoaoao.info/post/</link>
     <description>Recent content in Posts on 胡永云的Hugo博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 24 Dec 2020 18:51:17 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Dec 2020 18:51:17 +0800</lastBuildDate><atom:link href="https://hugo.aoaoao.info/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>截图大师-超级写轮眼</title>
-      <link>http://localhost:1313/post/screenshot-lan/</link>
+      <link>https://hugo.aoaoao.info/post/screenshot-lan/</link>
       <pubDate>Thu, 24 Dec 2020 18:51:17 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/screenshot-lan/</guid>
+      <guid>https://hugo.aoaoao.info/post/screenshot-lan/</guid>
       <description>欢迎使用截图大师 截图大师-超级写轮眼是一款内网截图软件。它的诞生起源于今天上午的一次闲聊，因为我们平时办公使用的都是内网，电脑是不允许使用Q</description>
     </item>
     

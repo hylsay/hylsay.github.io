@@ -1,64 +1,64 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://hugo.aoaoao.info/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://hugo.aoaoao.info/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://hugo.aoaoao.info/categories/</loc>
     <lastmod>2020-12-24T18:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://hugo.aoaoao.info/post/</loc>
     <lastmod>2020-12-24T18:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://hugo.aoaoao.info/tags/</loc>
     <lastmod>2020-12-24T18:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/vb.net/</loc>
+    <loc>https://hugo.aoaoao.info/tags/vb.net/</loc>
     <lastmod>2020-12-24T18:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/vb.net/</loc>
+    <loc>https://hugo.aoaoao.info/categories/vb.net/</loc>
     <lastmod>2020-12-24T18:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/%E6%88%AA%E5%9B%BE%E5%A4%A7%E5%B8%88/</loc>
+    <loc>https://hugo.aoaoao.info/tags/%E6%88%AA%E5%9B%BE%E5%A4%A7%E5%B8%88/</loc>
     <lastmod>2020-12-24T18:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/screenshot-lan/</loc>
+    <loc>https://hugo.aoaoao.info/post/screenshot-lan/</loc>
     <lastmod>2020-12-24T18:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://hugo.aoaoao.info/</loc>
     <lastmod>2020-12-24T18:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
