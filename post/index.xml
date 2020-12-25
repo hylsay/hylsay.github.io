@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on 胡永云的Hugo博客</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://hugo.aoaoao.info/post/</link>
     <description>Recent content in Posts on 胡永云的Hugo博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 25 Dec 2020 02:44:54 +0800</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Dec 2020 02:44:54 +0800</lastBuildDate><atom:link href="https://hugo.aoaoao.info/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WordPress邮箱插件Hylsay Email Smtp</title>
-      <link>http://localhost:1313/post/wordpress-hylsay-email-smtp/</link>
+      <link>https://hugo.aoaoao.info/post/wordpress-hylsay-email-smtp/</link>
       <pubDate>Fri, 25 Dec 2020 02:44:54 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/wordpress-hylsay-email-smtp/</guid>
+      <guid>https://hugo.aoaoao.info/post/wordpress-hylsay-email-smtp/</guid>
       <description>插件介绍 WordPress邮箱插件hylsay-email-smtp是由hylsay独立开发，它的主要特点就是把网站动态及时通过邮件方式告知</description>
     </item>
     
     <item>
       <title>WordPress文章阅读插件Hylsay Text Reading</title>
-      <link>http://localhost:1313/post/wordpress-hylsay-text-reading/</link>
+      <link>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</link>
       <pubDate>Fri, 25 Dec 2020 02:32:29 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/wordpress-hylsay-text-reading/</guid>
+      <guid>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</guid>
       <description>插件介绍 WordPress文章阅读插件Hylsay-Text-Reading是由hylsay独立开发，它的特点就是能把文字合成语音播放出来，</description>
     </item>
     
     <item>
       <title>截图大师-超级写轮眼</title>
-      <link>http://localhost:1313/post/screenshot-lan/</link>
+      <link>https://hugo.aoaoao.info/post/screenshot-lan/</link>
       <pubDate>Thu, 24 Dec 2020 18:51:17 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/screenshot-lan/</guid>
+      <guid>https://hugo.aoaoao.info/post/screenshot-lan/</guid>
       <description>欢迎使用截图大师 截图大师-超级写轮眼是一款内网截图软件。它的诞生起源于今天上午的一次闲聊，因为我们平时办公使用的都是内网，电脑是不允许使用Q</description>
     </item>
     

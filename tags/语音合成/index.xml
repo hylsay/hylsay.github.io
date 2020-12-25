@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>语音合成 on 胡永云的Hugo博客</title>
-    <link>http://localhost:1313/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/</link>
+    <link>https://hugo.aoaoao.info/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/</link>
     <description>Recent content in 语音合成 on 胡永云的Hugo博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 25 Dec 2020 02:32:29 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Dec 2020 02:32:29 +0800</lastBuildDate><atom:link href="https://hugo.aoaoao.info/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WordPress文章阅读插件Hylsay Text Reading</title>
-      <link>http://localhost:1313/post/wordpress-hylsay-text-reading/</link>
+      <link>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</link>
       <pubDate>Fri, 25 Dec 2020 02:32:29 +0800</pubDate>
       
-      <guid>http://localhost:1313/post/wordpress-hylsay-text-reading/</guid>
+      <guid>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</guid>
       <description>插件介绍 WordPress文章阅读插件Hylsay-Text-Reading是由hylsay独立开发，它的特点就是能把文字合成语音播放出来，</description>
     </item>
     
