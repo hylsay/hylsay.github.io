@@ -8,6 +8,15 @@
     <language>zh-cn</language>
     <lastBuildDate>Fri, 25 Dec 2020 02:44:54 +0800</lastBuildDate><atom:link href="https://hugo.aoaoao.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>WordPress文章阅读插件Hylsay Text Reading</title>
+      <link>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</link>
+      <pubDate>Fri, 25 Dec 2020 02:32:29 +0800</pubDate>
+      
+      <guid>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</guid>
+      <description>插件介绍 WordPress文章阅读插件Hylsay-Text-Reading是由hylsay独立开发，它的特点就是能把文字合成语音播放出来，</description>
+    </item>
+    
+    <item>
       <title>About</title>
       <link>https://hugo.aoaoao.info/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
@@ -23,15 +32,6 @@
       
       <guid>https://hugo.aoaoao.info/post/wordpress-hylsay-email-smtp/</guid>
       <description>插件介绍 WordPress邮箱插件hylsay-email-smtp是由hylsay独立开发，它的主要特点就是把网站动态及时通过邮件方式告知</description>
-    </item>
-    
-    <item>
-      <title>WordPress文章阅读插件Hylsay Text Reading</title>
-      <link>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</link>
-      <pubDate>Fri, 25 Dec 2020 02:32:29 +0800</pubDate>
-      
-      <guid>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</guid>
-      <description>插件介绍 WordPress文章阅读插件Hylsay-Text-Reading是由hylsay独立开发，它的特点就是能把文字合成语音播放出来，</description>
     </item>
     
     <item>
