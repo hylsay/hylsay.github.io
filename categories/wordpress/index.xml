@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wordpress on 胡永云的Hugo博客</title>
-    <link>https://hugo.aoaoao.info/categories/wordpress/</link>
+    <link>http://localhost:1313/categories/wordpress/</link>
     <description>Recent content in Wordpress on 胡永云的Hugo博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Fri, 25 Dec 2020 02:44:54 +0800</lastBuildDate><atom:link href="https://hugo.aoaoao.info/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Dec 2020 02:44:54 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/wordpress/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WordPress邮箱插件Hylsay Email Smtp</title>
-      <link>https://hugo.aoaoao.info/post/wordpress-hylsay-email-smtp/</link>
+      <link>http://localhost:1313/post/wordpress-hylsay-email-smtp/</link>
       <pubDate>Fri, 25 Dec 2020 02:44:54 +0800</pubDate>
       
-      <guid>https://hugo.aoaoao.info/post/wordpress-hylsay-email-smtp/</guid>
+      <guid>http://localhost:1313/post/wordpress-hylsay-email-smtp/</guid>
       <description>插件介绍 WordPress邮箱插件hylsay-email-smtp是由hylsay独立开发，它的主要特点就是把网站动态及时通过邮件方式告知</description>
     </item>
     
     <item>
       <title>WordPress文章阅读插件Hylsay Text Reading</title>
-      <link>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</link>
+      <link>http://localhost:1313/post/wordpress-hylsay-text-reading/</link>
       <pubDate>Fri, 25 Dec 2020 02:32:29 +0800</pubDate>
       
-      <guid>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</guid>
+      <guid>http://localhost:1313/post/wordpress-hylsay-text-reading/</guid>
       <description>插件介绍 WordPress文章阅读插件Hylsay-Text-Reading是由hylsay独立开发，它的特点就是能把文字合成语音播放出来，</description>
     </item>
     

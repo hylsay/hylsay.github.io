@@ -1,120 +1,120 @@
-<?xml-stylesheet type="text/xsl" href="https://hugo.aoaoao.info/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://hugo.aoaoao.info/about/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2020-12-25T02:44:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/tags/hylsay-email-smtp/</loc>
+    <loc>http://localhost:1313/tags/hylsay-email-smtp/</loc>
     <lastmod>2020-12-25T02:44:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2020-12-25T02:44:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2020-12-25T02:44:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/tags/wordpress/</loc>
+    <loc>http://localhost:1313/tags/wordpress/</loc>
     <lastmod>2020-12-25T02:44:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/categories/wordpress/</loc>
+    <loc>http://localhost:1313/categories/wordpress/</loc>
     <lastmod>2020-12-25T02:44:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/post/wordpress-hylsay-email-smtp/</loc>
+    <loc>http://localhost:1313/post/wordpress-hylsay-email-smtp/</loc>
     <lastmod>2020-12-25T02:44:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2020-12-25T02:44:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/tags/%E9%82%AE%E4%BB%B6%E6%8F%90%E9%86%92/</loc>
+    <loc>http://localhost:1313/tags/%E9%82%AE%E4%BB%B6%E6%8F%90%E9%86%92/</loc>
     <lastmod>2020-12-25T02:44:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/tags/hylsay-text-reading/</loc>
+    <loc>http://localhost:1313/tags/hylsay-text-reading/</loc>
     <lastmod>2020-12-25T02:32:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</loc>
+    <loc>http://localhost:1313/post/wordpress-hylsay-text-reading/</loc>
     <lastmod>2020-12-25T02:32:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/</loc>
+    <loc>http://localhost:1313/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/</loc>
     <lastmod>2020-12-25T02:32:29+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/tags/vb.net/</loc>
+    <loc>http://localhost:1313/tags/vb.net/</loc>
     <lastmod>2020-12-24T18:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/categories/vb.net/</loc>
+    <loc>http://localhost:1313/categories/vb.net/</loc>
     <lastmod>2020-12-24T18:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/tags/%E6%88%AA%E5%9B%BE%E5%A4%A7%E5%B8%88/</loc>
+    <loc>http://localhost:1313/tags/%E6%88%AA%E5%9B%BE%E5%A4%A7%E5%B8%88/</loc>
     <lastmod>2020-12-24T18:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/post/screenshot-lan/</loc>
+    <loc>http://localhost:1313/post/screenshot-lan/</loc>
     <lastmod>2020-12-24T18:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
