@@ -6,7 +6,16 @@
     <description>Recent content in VB.net on 胡永云的Hugo博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Dec 2020 09:33:07 +0800</lastBuildDate><atom:link href="https://hugo.aoaoao.info/tags/vb.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 10:32:11 +0800</lastBuildDate><atom:link href="https://hugo.aoaoao.info/tags/vb.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VB.net禁止程序多开</title>
+      <link>https://hugo.aoaoao.info/post/no-more-programs/</link>
+      <pubDate>Wed, 30 Dec 2020 10:32:11 +0800</pubDate>
+      
+      <guid>https://hugo.aoaoao.info/post/no-more-programs/</guid>
+      <description>APP多开一方面耗费电脑资源，另一方面影响用户体验。 所以，我们开发APP的时候如何做到禁止程序多开呢？ 我们将以下代码复制粘贴到窗体的Form</description>
+    </item>
+    
     <item>
       <title>音频文件转写，音频转文字</title>
       <link>https://hugo.aoaoao.info/post/voice-to-text/</link>

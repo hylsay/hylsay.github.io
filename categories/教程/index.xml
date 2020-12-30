@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>教程 on 胡永云的Hugo博客</title>
+    <link>https://hugo.aoaoao.info/categories/%E6%95%99%E7%A8%8B/</link>
+    <description>Recent content in 教程 on 胡永云的Hugo博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 30 Dec 2020 10:32:11 +0800</lastBuildDate><atom:link href="https://hugo.aoaoao.info/categories/%E6%95%99%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>VB.net禁止程序多开</title>
+      <link>https://hugo.aoaoao.info/post/no-more-programs/</link>
+      <pubDate>Wed, 30 Dec 2020 10:32:11 +0800</pubDate>
+      
+      <guid>https://hugo.aoaoao.info/post/no-more-programs/</guid>
+      <description>APP多开一方面耗费电脑资源，另一方面影响用户体验。 所以，我们开发APP的时候如何做到禁止程序多开呢？ 我们将以下代码复制粘贴到窗体的Form</description>
+    </item>
+    
+  </channel>
+</rss>

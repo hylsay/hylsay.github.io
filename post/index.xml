@@ -6,7 +6,7 @@
     <description>Recent content in Posts on 胡永云的Hugo博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <lastBuildDate>Wed, 30 Dec 2020 09:33:07 +0800</lastBuildDate><atom:link href="https://hugo.aoaoao.info/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 10:32:11 +0800</lastBuildDate><atom:link href="https://hugo.aoaoao.info/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>WordPress文章阅读插件Hylsay Text Reading</title>
       <link>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://hugo.aoaoao.info/post/wordpress-hylsay-text-reading/</guid>
       <description>插件介绍 WordPress文章阅读插件Hylsay-Text-Reading是由hylsay独立开发，它的特点就是能把文字合成语音播放出来，</description>
+    </item>
+    
+    <item>
+      <title>VB.net禁止程序多开</title>
+      <link>https://hugo.aoaoao.info/post/no-more-programs/</link>
+      <pubDate>Wed, 30 Dec 2020 10:32:11 +0800</pubDate>
+      
+      <guid>https://hugo.aoaoao.info/post/no-more-programs/</guid>
+      <description>APP多开一方面耗费电脑资源，另一方面影响用户体验。 所以，我们开发APP的时候如何做到禁止程序多开呢？ 我们将以下代码复制粘贴到窗体的Form</description>
     </item>
     
     <item>
