@@ -17,27 +17,69 @@
   
   <url>
     <loc>https://hugo.aoaoao.info/categories/</loc>
-    <lastmod>2020-12-25T02:44:54+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hugo.aoaoao.info/tags/hylsay-email-smtp/</loc>
-    <lastmod>2020-12-25T02:44:54+08:00</lastmod>
+    <lastmod>2020-12-30T09:33:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://hugo.aoaoao.info/post/</loc>
-    <lastmod>2020-12-25T02:44:54+08:00</lastmod>
+    <lastmod>2020-12-30T09:33:07+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://hugo.aoaoao.info/tags/</loc>
+    <lastmod>2020-12-30T09:33:07+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/tags/vb.net/</loc>
+    <lastmod>2020-12-30T09:33:07+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/categories/vb.net/</loc>
+    <lastmod>2020-12-30T09:33:07+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/</loc>
+    <lastmod>2020-12-30T09:33:07+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/tags/%E9%9F%B3%E9%A2%91%E6%96%87%E4%BB%B6%E8%BD%AC%E5%86%99/</loc>
+    <lastmod>2020-12-30T09:33:07+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/post/voice-to-text/</loc>
+    <lastmod>2020-12-30T09:33:07+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/tags/%E9%9F%B3%E9%A2%91%E8%BD%AC%E6%96%87%E5%AD%97/</loc>
+    <lastmod>2020-12-30T09:33:07+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://hugo.aoaoao.info/tags/hylsay-email-smtp/</loc>
     <lastmod>2020-12-25T02:44:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -65,13 +107,6 @@
   </url>
   
   <url>
-    <loc>https://hugo.aoaoao.info/</loc>
-    <lastmod>2020-12-25T02:44:54+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://hugo.aoaoao.info/tags/%E9%82%AE%E4%BB%B6%E6%8F%90%E9%86%92/</loc>
     <lastmod>2020-12-25T02:44:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -88,20 +123,6 @@
   <url>
     <loc>https://hugo.aoaoao.info/tags/%E8%AF%AD%E9%9F%B3%E5%90%88%E6%88%90/</loc>
     <lastmod>2020-12-25T02:32:29+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hugo.aoaoao.info/tags/vb.net/</loc>
-    <lastmod>2020-12-24T18:51:17+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://hugo.aoaoao.info/categories/vb.net/</loc>
-    <lastmod>2020-12-24T18:51:17+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

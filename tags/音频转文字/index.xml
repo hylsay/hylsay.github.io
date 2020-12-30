@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>音频转文字 on 胡永云的Hugo博客</title>
+    <link>https://hugo.aoaoao.info/tags/%E9%9F%B3%E9%A2%91%E8%BD%AC%E6%96%87%E5%AD%97/</link>
+    <description>Recent content in 音频转文字 on 胡永云的Hugo博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 30 Dec 2020 09:33:07 +0800</lastBuildDate><atom:link href="https://hugo.aoaoao.info/tags/%E9%9F%B3%E9%A2%91%E8%BD%AC%E6%96%87%E5%AD%97/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>音频文件转写，音频转文字</title>
+      <link>https://hugo.aoaoao.info/post/voice-to-text/</link>
+      <pubDate>Wed, 30 Dec 2020 09:33:07 +0800</pubDate>
+      
+      <guid>https://hugo.aoaoao.info/post/voice-to-text/</guid>
+      <description>软件介绍 11月份的时候有一个业务培训，参加培训的人员结束后要写一个报告，当时只有视频资料，没有文字材料。 看一眼视频写一段文字，这样的效率实在</description>
+    </item>
+    
+  </channel>
+</rss>
